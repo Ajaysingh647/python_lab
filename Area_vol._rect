@@ -1,0 +1,6 @@
+l=eval(input('Enter the lenght-'))
+b=eval(input('Enter the breadth-'))
+a=l*b
+print('The Area of the Rectangle-' ,a)
+v=2*(l+b)
+print('The Volume of the Rectangle-' ,v)
